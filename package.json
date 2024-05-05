@@ -1,0 +1,11 @@
+{
+  "name": "gdscevent",
+  "version": "1.0.0",
+  "description": "[![Judge0 IDE Screenshot](https://github.com/judge0/ide/blob/master/.github/screenshot.png?raw=true)](https://ide.judge0.com/?7U55)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
